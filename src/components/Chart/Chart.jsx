@@ -15,7 +15,7 @@ const Chart = () => {
         }
 
         fetchAPI()
-    }, [dailyData])
+    }, [])
 
 
     const LineChart = () => {
